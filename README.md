@@ -8,6 +8,8 @@ using the [Workflow Description Language (WDL)](https://github.com/openwdl/wdl) 
 
 🔧⚙️ **Technologies & Tools**
 
+![](https://img.shields.io/badge/<OS>-<Linux>-informational?style=flat&logo=data:image/svg%2bxml;base64,<#FCC624>)
+
 ![](https://img.shields.io/badge/<OS>-<Linux>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<Shell>-<Bash>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<Code>-<JavaScript>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
