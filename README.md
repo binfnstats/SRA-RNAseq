@@ -23,6 +23,11 @@ using the [Workflow Description Language (WDL)](https://github.com/openwdl/wdl) 
 ### 🔗 Quick Start
 
 
+* Install [SRAtoolkit](http://www.sthda.com/english/wiki/install-sra-toolkit)
+* Run the following command to download SRA fastq files in parallel. The list.txt include the SRA ids. 
+
+`parallel --jobs 3 "fastq-dump --split-files --skip-technical -B --gzip {}" :::: list.txt`
+
 * Install [JAVA](https://www.java.com/en/download/), and [Cromwell](https://github.com/broadinstitute/cromwell) 
 * Build [Docker](https://www.docker.com/) images for [Trimmomatic](https://github.com/usadellab/Trimmomatic), [fastQC](https://github.com/s-andrews/FastQC) and [Kallisto](https://github.com/pachterlab/kallisto) 
 * Build an index from a FASTA formatted file of target sequences using [Kallisto](https://github.com/pachterlab/kallisto). 
