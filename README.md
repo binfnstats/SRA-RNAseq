@@ -30,7 +30,7 @@ using the [Workflow Description Language (WDL)](https://github.com/openwdl/wdl) 
 
 * Install [JAVA](https://www.java.com/en/download/), and [Cromwell](https://github.com/broadinstitute/cromwell) 
 * Build [Docker](https://www.docker.com/) images for [Trimmomatic](https://github.com/usadellab/Trimmomatic), [fastQC](https://github.com/s-andrews/FastQC) and [Kallisto](https://github.com/pachterlab/kallisto) 
-* Build an index from a FASTA formatted file of target sequences using [Kallisto](https://github.com/pachterlab/kallisto). 
+* Build an index from a FASTA formatted file of target sequences using [Kallisto](https://github.com/pachterlab/kallisto) and name it under gencode.idx. 
 * Run the workflow directly by executing the following commands on your terminal:
 
 `java -Dconfig.file=application.conf -jar cromwell-55.jar run Trim-QC.wdl -i Trim-QC.json` 
