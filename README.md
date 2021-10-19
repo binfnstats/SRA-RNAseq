@@ -9,7 +9,7 @@ using the [Workflow Description Language (WDL)](https://github.com/openwdl/wdl) 
 
 
 
-🔧⚙️ **Technologies & Tools**
+# 🔧⚙️Technologies & Tools
 
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
@@ -20,7 +20,7 @@ using the [Workflow Description Language (WDL)](https://github.com/openwdl/wdl) 
 
 
 
-🔗 **Quick Start**
+# 🔗 Quick Start
 
  
 * Install [JAVA](https://www.java.com/en/download/), and [Cromwell](https://github.com/broadinstitute/cromwell) 
