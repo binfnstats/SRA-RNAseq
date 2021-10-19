@@ -22,15 +22,16 @@ using the [Workflow Description Language (WDL)](https://github.com/openwdl/wdl) 
 
 ### 🔗 Quick Start
 
-
+** SRA fastq file download
 * Install [SRAtoolkit](http://www.sthda.com/english/wiki/install-sra-toolkit)
 * Run the following command to download SRA fastq files in parallel. The list.txt includes SRA ids. 
 
 `parallel --jobs 3 "fastq-dump --split-files --skip-technical -B --gzip {}" :::: list.txt`
 
+** Running Trim-QC & Kallisto pipeline in WDL format
 * Install [JAVA](https://www.java.com/en/download/), and [Cromwell](https://github.com/broadinstitute/cromwell) 
 * Build [Docker](https://www.docker.com/) images for [Trimmomatic](https://github.com/usadellab/Trimmomatic), [fastQC](https://github.com/s-andrews/FastQC) and [Kallisto](https://github.com/pachterlab/kallisto) 
-* Build an index from a FASTA formatted file of target sequences using [Kallisto](https://github.com/pachterlab/kallisto) and name it under gencode.idx. 
+* For running Kallisto.wdl you also need to build an index from a FASTA formatted file of target sequences using [Kallisto](https://github.com/pachterlab/kallisto) and name it under gencode.idx. 
 * Run the workflow directly by executing the following commands on your terminal:
 
 `java -Dconfig.file=application.conf -jar cromwell-55.jar run Trim-QC.wdl -i Trim-QC.json` 
