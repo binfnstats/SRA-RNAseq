@@ -1,7 +1,7 @@
  # ✒️SRA-RNAseq
 
 
-Our Guthub repo include pipelines for running Pre-processing methods such as Trimming, quality control and pseudoalignment using [Trimmomatic](https://github.com/usadellab/Trimmomatic), [fastQC](https://github.com/s-andrews/FastQC) and [Kallisto](https://github.com/pachterlab/kallisto) tools respectively.
+Our Guthub repo include pipelines for running Pre-processing methods such as Trimming, quality control and pseudoalignment using [Trimmomatic](https://github.com/usadellab/Trimmomatic), [fastQC](https://github.com/s-andrews/FastQC) and [Kallisto](https://github.com/pachterlab/kallisto) tools respectively on [SRA]( https://www.ncbi.nlm.nih.gov/sra) fastq files.
 All the pipelines are written 
 using the [Workflow Description Language (WDL)](https://github.com/openwdl/wdl) and can be executed using 
 [Cromwell](https://github.com/broadinstitute/cromwell) and [Docker](https://www.docker.com/). 
@@ -22,7 +22,7 @@ using the [Workflow Description Language (WDL)](https://github.com/openwdl/wdl) 
 
 ### 🔗 Quick Start
 
- 
+
 * Install [JAVA](https://www.java.com/en/download/), and [Cromwell](https://github.com/broadinstitute/cromwell) 
 * Build [Docker](https://www.docker.com/) images for [Trimmomatic](https://github.com/usadellab/Trimmomatic), [fastQC](https://github.com/s-andrews/FastQC) and [Kallisto](https://github.com/pachterlab/kallisto) 
 * Build an index from a FASTA formatted file of target sequences using [Kallisto](https://github.com/pachterlab/kallisto). 
