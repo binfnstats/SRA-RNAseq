@@ -10,10 +10,10 @@ using the [Workflow Description Language (WDL)](https://github.com/openwdl/wdl) 
 
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<#FCC624>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<Shell>-<Bash>-informational?style=flat&logo=<#5391FE>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<Code>-<JavaScript>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<Tools>-<Docker>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<Tools>-<Cromwell>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=<#5391FE>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=<#2496ED>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Cromwell-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 
 
