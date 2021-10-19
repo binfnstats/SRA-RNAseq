@@ -1,0 +1,3 @@
+/Path/To/R1.fastq	Path/To/R2.fastq
+/Path/To/R1.fastq	Path/To/R2.fastq
+/Path/To/R1.fastq	Path/To/R2.fastq
