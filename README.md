@@ -28,7 +28,7 @@ using the [Workflow Description Language (WDL)](https://github.com/openwdl/wdl) 
 * Build an index file from a FASTA formatted file of target sequences using [Kallisto](https://github.com/pachterlab/kallisto). 
 * Run the workflow directly by executing the following commands on your terminal:
 
-`java -Dconfig.file=application.conf -jar cromwell-55.jar run Trim-qc.wdl -i Trim-qc.json` 
+`java -Dconfig.file=application.conf -jar cromwell-55.jar run Trim-QC.wdl -i Trim-QC.json` 
  
  
  
