@@ -6,7 +6,7 @@ using the https://github.com/openwdl/wdl and can be executed using
 https://github.com/broadinstitute/cromwell and https://www.docker.com/. 
 
 
-🔧 Technologies & Tools
+🔧 **Technologies & Tools**
 
 ![](https://img.shields.io/badge/<OS>-<Linux>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<Code>-<JavaScript>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
