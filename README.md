@@ -22,7 +22,7 @@ using the [Workflow Description Language (WDL)](https://github.com/openwdl/wdl) 
 
 ### 🔗 Quick Start
 
-#### SRA fastq file download
+#### SRA fastq files download
 * Install [SRAtoolkit](http://www.sthda.com/english/wiki/install-sra-toolkit)
 * Run the following command to download SRA fastq files in parallel. The list.txt includes SRA ids. 
 
