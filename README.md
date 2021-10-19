@@ -23,6 +23,8 @@ using the [Workflow Description Language (WDL)](https://github.com/openwdl/wdl) 
 🔗 **Quick Start**
 
  
- If you have already installed [JAVA](https://www.java.com/en/download/), and [Cromwell](https://github.com/broadinstitute/cromwell) and have build your [Docker](https://www.docker.com/) images for [Trimmomatic](https://github.com/usadellab/Trimmomatic), [fastQC](https://github.com/s-andrews/FastQC) and [Kallisto](https://github.com/pachterlab/kallisto) you can directly run the workflow by executing the following commands on your terminal:
+ If you have already installed [JAVA](https://www.java.com/en/download/), and [Cromwell](https://github.com/broadinstitute/cromwell) and have build your [Docker](https://www.docker.com/) images for [Trimmomatic](https://github.com/usadellab/Trimmomatic), [fastQC](https://github.com/s-andrews/FastQC) and [Kallisto](https://github.com/pachterlab/kallisto) you can directly run the workflow by executing the following commands on your terminal.
+ 
+ 
  
  
