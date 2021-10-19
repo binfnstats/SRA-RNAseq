@@ -29,6 +29,7 @@ using the [Workflow Description Language (WDL)](https://github.com/openwdl/wdl) 
 * Run the workflow directly by executing the following commands on your terminal:
 
 `java -Dconfig.file=application.conf -jar cromwell-55.jar run Trim-QC.wdl -i Trim-QC.json` 
- 
+
+`java -Dconfig.file=application.conf -jar cromwell-55.jar run Kallisto.wdl -i Kallisto.json` 
  
  
