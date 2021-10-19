@@ -1,8 +1,8 @@
 workflow trimmomatic_fastqc {
 
-  File inputSampleFiles
+  File inputSampleFile
 
-  Array[Array[File]] files = read_tsv(inputSampleFiles)
+  Array[Array[File]] files = read_tsv(inputSampleFile)
 
   File TruSeq3
 
