@@ -1,0 +1,5 @@
+{
+  "iggygetout_trim_fastqc.inputSampleFiles": "inputSampleFiles.txt",
+  "iggygetout_trim_fastqc.TruSeq3": "TruSeq3.fa"
+}
+
