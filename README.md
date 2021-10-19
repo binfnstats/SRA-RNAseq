@@ -1,7 +1,7 @@
  # ✒️SRA-RNAseq
 
 
-Our Guthub repo include pipelines for running Pre-processing methods such as Trimming, quality control and pseudoalignment using [Trimmomatic](https://github.com/usadellab/Trimmomatic), [fastQC](https://github.com/s-andrews/FastQC) and [Kallisto](https://github.com/pachterlab/kallisto) tools respectively on [SRA]( https://www.ncbi.nlm.nih.gov/sra) fastq files.
+Our Guthub repo include pipelines for running Pre-processing methods such as Trimming, quality control and pseudoalignment on [SRA]( https://www.ncbi.nlm.nih.gov/sra) fastq files using [Trimmomatic](https://github.com/usadellab/Trimmomatic), [fastQC](https://github.com/s-andrews/FastQC) and [Kallisto](https://github.com/pachterlab/kallisto) tools respectively.
 All the pipelines are written 
 using the [Workflow Description Language (WDL)](https://github.com/openwdl/wdl) and can be executed using 
 [Cromwell](https://github.com/broadinstitute/cromwell) and [Docker](https://www.docker.com/). 
