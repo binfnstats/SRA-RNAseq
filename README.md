@@ -1,4 +1,4 @@
-✏️ SRA-RNAseq
+✏️ **SRA-RNAseq**
 
 Include pipelines for running Pre-processing methods such as Trimming, quality control and pseudoalignment using Trimmomatic, fastQC and Kallisto tools respectively.
 All the pipelines are written 
