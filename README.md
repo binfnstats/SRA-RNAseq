@@ -13,7 +13,4 @@ using the [Workflow Description Language (WDL)](https://github.com/openwdl/wdl) 
 ![](https://img.shields.io/badge/<Tools>-<Docker>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<Tools>-<Cromwell>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
-#FCC624
-#007396 
-#2496ED
  
