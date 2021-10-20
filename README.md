@@ -26,7 +26,7 @@ using the [Workflow Description Language (WDL)](https://github.com/openwdl/wdl) 
 * Install [SRAtoolkit](http://www.sthda.com/english/wiki/install-sra-toolkit)
 * Run the following command to download SRA fastq files in parallel. The list.txt includes SRA ids. 
 
-`parallel --jobs 3 "fastq-dump --split-files --skip-technical -B --gzip {}" :::: list.txt`
+`parallel --jobs n "fastq-dump --split-files --skip-technical -B --gzip {}" :::: list.txt`
 
 
 #### Running Trim-QC & Kallisto pipeline in WDL format
