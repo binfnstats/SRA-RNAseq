@@ -1,5 +1,5 @@
 {
-  "kallisto.gencode": "gencode.idx",
+  "kallisto.gencode": "gencode.v31.transcripts.fa.idx",
   "kallisto.InputSampleFile": "InputSampleFile.txt"
 }
 
